@@ -9,7 +9,7 @@ body{
 h1 {
     margin: 0 0 0 8px;
     padding-top: 8px;
-    font-size: 200px;
+    font-size: 100px;
 }
 
 .bar{
@@ -26,6 +26,7 @@ h1 {
 .container{
     margin-top:30px;
     padding: 0 60px 0 60px;
+    font-size: 20px;
 }
 
 .post{
